@@ -1,0 +1,17 @@
+# Xử lý dữ liệu
+pandas
+numpy
+
+# Thống kê & tương quan (Pearson/Spearman)
+scipy
+statsmodels
+
+# Machine Learning (Logistic Regression, Decision Tree)
+scikit-learn
+
+# Trực quan hóa
+matplotlib
+seaborn
+
+# Notebook (tùy chọn, để vừa code vừa trình bày kết quả)
+jupyter
